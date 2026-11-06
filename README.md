@@ -1,47 +1,21 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:8B0000&height=140&text=MIGUEL&fontSize=60&fontColor=FF0000&fontAlign=18&fontAlignY=45&desc=JAVA%20DEV%20%7C%20LINUX%20USER&descSize=16&descColor=FFFFFF&descAlign=18&descAlignY=72" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:8B0000&height=140&text=MIGUEL&fontSize=60&fontColor=FF0000&fontAlign=18&fontAlignY=45&desc=JAVA%20DEV%20%7C%20LINUX%20USER&descSize=16&descColor=FFFFFF&descAlign=18&descAlignY=72" width="100%" alt="MIGUEL"/>
 
 <br>
 
-### `[01]` SOBRE MÍ
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:000000&height=34&text=%5B01%5D%20SOBRE%20M%C3%8D&fontSize=16&fontColor=FFFFFF&fontAlign=3&fontAlignY=55" width="100%" alt="Sobre mí"/>
 
-```text
-nombre   : Miguel
-rol      : Desarrollador en formación
-lenguaje : Java
-sistema  : Ubuntu / Linux y Windows
-```
+<pre> nombre : Miguel rol : Desarrollador en formación lenguaje : Java sistema : Ubuntu / Linux y Windows </pre>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:000000&height=34&text=%5B02%5D%20STACK&fontSize=16&fontColor=FFFFFF&fontAlign=3&fontAlignY=55" width="100%" alt="Stack"/>
 
-### `[02]` STACK
+<p> <img src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=openjdk&logoColor=000000" alt="Java"/> <img src="https://img.shields.io/badge/Linux-FF0000?style=for-the-badge&logo=linux&logoColor=000000" alt="Linux"/> <img src="https://img.shields.io/badge/Ubuntu-FF0000?style=for-the-badge&logo=ubuntu&logoColor=000000" alt="Ubuntu"/> <img src="https://img.shields.io/badge/Windows-FF0000?style=for-the-badge&logo=windows&logoColor=000000" alt="Windows"/> <img src="https://img.shields.io/badge/Git-FF0000?style=for-the-badge&logo=git&logoColor=000000" alt="Git"/> <img src="https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=000000" alt="GitHub"/> </p>
 
-![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=FF0000)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=FF0000)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=FF0000)
-![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=FF0000)
-![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF0000)
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF0000)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:000000&height=34&text=%5B03%5D%20NIVEL&fontSize=16&fontColor=FFFFFF&fontAlign=3&fontAlignY=55" width="100%" alt="Nivel"/>
 
-<br>
+<p> <img src="https://img.shields.io/badge/Java-80%25-FF0000?style=for-the-badge&labelColor=000000" alt="Java 80%"/> <img src="https://img.shields.io/badge/Linux-70%25-FF0000?style=for-the-badge&labelColor=000000" alt="Linux 70%"/> <img src="https://img.shields.io/badge/Windows-80%25-FF0000?style=for-the-badge&labelColor=000000" alt="Windows 80%"/> </p>
 
-### `[03]` NIVEL
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:000000&height=34&text=%5B04%5D%20CONTACTO&fontSize=16&fontColor=FFFFFF&fontAlign=3&fontAlignY=55" width="100%" alt="Contacto"/>
 
-| Skill | Nivel |
-|-------|-------|
-| Java | `████████░░` |
-| Linux / Ubuntu | `███████░░░` |
-| Windows | `████████░░` |
+<p> <a href="https://github.com/miguepm02"><img src="https://img.shields.io/badge/GitHub-miguepm02-FF0000?style=for-the-badge&logo=github&logoColor=000000&labelColor=000000" alt="GitHub miguepm02"/></a> </p>
 
-<br>
-
-### `[04]` STATS
-
-<img src="https://github-readme-stats.vercel.app/api?username=miguepm02&show_icons=true&hide_border=true&bg_color=000000&title_color=FF0000&icon_color=FF0000&text_color=FFFFFF" height="165"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguepm02&layout=compact&hide_border=true&bg_color=000000&title_color=FF0000&text_color=FFFFFF" height="165"/>
-
-<br>
-
-### `[05]` CONTACTO
-
-[![GitHub](https://img.shields.io/badge/GitHub-miguepm02-000000?style=for-the-badge&logo=github&logoColor=FF0000)](https://github.com/miguepm02)
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:000000&height=24&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,100:000000&height=20" width="100%" alt=""/>
